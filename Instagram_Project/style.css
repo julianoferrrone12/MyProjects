@@ -24,7 +24,7 @@ body{
     width: 60%;
     height: 100vH;
 }
-//Editing "container" size
+/*Editing "container" size*/
 .instagram-phone {
     display: flex;
     align-items: center;
@@ -50,7 +50,7 @@ body{
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    background-color: #ffffff; //White
+    background-color: #ffffff; /*White*/
     width: 100%;
     padding: 1.3rem 0;
     border: 1px solid lightgray;
@@ -78,7 +78,7 @@ body{
 }
 
 .instagram-login{
-    background-color: #0095f6; //A kind of blue
+    background-color: #0095f6; /*A kind of blue*/
     color: #ffffff;
     padding: 8px;
     border-radius: 4px;
@@ -121,11 +121,11 @@ body{
 }
 
 .app-download:nth-child(1){
-    background-image: url('store_apple.jpg'); //Rescue of buttons image
+    background-image: url('store_apple.jpg'); /*Rescue of buttons image*/
 }
 
 .app-download:nth-child(2){
-    background-image: url('store_google.jpg'); //Rescue of buttons image
+    background-image: url('store_google.jpg'); /*Rescue of buttons image*/
 }
 
 /********************/
