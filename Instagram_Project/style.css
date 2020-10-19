@@ -24,14 +24,14 @@ body{
     width: 60%;
     height: 100vH;
 }
-#Editing "container" size
+//Editing "container" size
 .instagram-phone {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 50%;
 }
-#Editing cell image size
+//Editing cell image size
 .instagram-phone img{
     height: 40rem;
 }
